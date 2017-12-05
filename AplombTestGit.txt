@@ -1,1 +1,1 @@
-This test text for Git. Now it has changed. Again it has been changed. Learning revert.
+This test text for Git. Now it has changed. Again it has been changed.
